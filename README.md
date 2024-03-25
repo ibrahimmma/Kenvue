@@ -13,27 +13,30 @@ Our objectives are tailored to Kenvue's strategic needs:
 
 ## Team Composition and Responsibilities
 
-- X - Head of Strategy: Orchestrates the project's direction, ensuring the alignment of analytics with Kenvue's strategic goals.
-- X - Head of Analytical Modeling: Leads the charge in dissecting data through sophisticated analytical models to uncover underlying patterns.
-- X - Head of Forecasting and Predictive Analytics: Focuses on leveraging historical data to forecast future demands, guiding supply chain adjustments.
+- **Omar Khalid** - *Head of Strategy*
+   - Orchestrates the project's direction, ensuring the alignment of analytics with Kenvue's strategic goals.
+- **Saad Najam** - *Head of Analytical Modeling*
+  - Leads the charge in dissecting data through sophisticated analytical models to uncover underlying patterns.
+- **Ibrahim Yibulayin** - *Head of Forecasting and Predictive Analytics*
+  - Focuses on leveraging historical data to forecast future demands, guiding supply chain adjustments.
 
 ## Data Preparation Strategy
 
 To ensure a solid foundation for analysis, our strategy emphasizes:
 - Streamlining the dataset by organizing need states into distinct columns.
 - Simplifying the temporal data representation by consolidating fiscal years and weeks.
-- Adhering to "Total Sales - UTSC lecture.csv" as the gold standard for our data cleaning process.
+- Adhering to `Total Sales - UTSC lecture.csv` as the gold standard for our data cleaning process.
 
 ## External Data and References
 
 To augment our analysis for Kenvue, we will incorporate:
-- Demographic insights and industry trends from resources such as IBIS and Simply Analytics.
+- Demographic insights and industry trends from resources such as **IBIS** and **SimplyAnalytics**.
 - This additional context will enrich our understanding and bolster the robustness of our recommendations.
 
 ## Technologies and Techniques
 
 The project leverages cutting-edge tools and methodologies:
-- **Languages and Libraries**: Utilizing Python and its powerful libraries (`Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `StatsModel`, `Scikit-learn`) for data analysis and modeling.
+- **Languages and Libraries**: Utilizing `Python` and its powerful libraries (`Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `StatsModel`, `Scikit-learn`) for data analysis and modeling.
 - **Analytical Tools**: Integrating insights from ChatGPT, with `Power BI` and potentially `Tableau` for visualizing data in a compelling and informative manner.
 - **Forecasting Techniques**: Applying proven forecasting methods from operations management to predict and plan for future sales trends and seasonality effects.
 
